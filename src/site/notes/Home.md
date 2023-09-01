@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-#Main 
-## This is the Home Page 
+## Home
 
-I am Garuda and I write about my interests.
+#main
+
+I am Garuda and I write about my [interests](about).
+
+#### Main Page
+[[About\|About]]
+[[All articles\|All articles]]
+
+#### All Tags
+ #main #hinduism 
