@@ -8,9 +8,9 @@
 
 I am Garuda and I write about my [interests](about).
 
-#### Main Page
+###### Main Pages
 [[About\|About]]
 [[All articles\|All articles]]
 
-#### All Tags
+###### All Tags
  #main #hinduism 
